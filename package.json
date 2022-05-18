@@ -1,0 +1,15 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cesar",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "puppeteer": "^13.5.2"
+  }
+}
